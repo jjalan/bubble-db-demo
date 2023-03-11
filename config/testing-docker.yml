@@ -1,0 +1,2 @@
+mongoDb:
+  uri: 'mongodb://db:27017/bubble-db-demo-test'
